@@ -1,4 +1,4 @@
-<center>👋 Hi there! I am Magniquick</center>
+#👋 Hi there! I am Magniquick.
 
 - 📚 I’m currently learning python
 - 📫 Dm me on [Discord](https://discordapp.com/users/715159111355990058) to chat : )
