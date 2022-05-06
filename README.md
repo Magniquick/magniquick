@@ -3,7 +3,7 @@
 - 📚 I’m currently learning python
 - 📫 Dm me on [Discord](https://discordapp.com/users/715159111355990058) to chat : )
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: Linux is more used than windows in two different planets :)
+- ⚡ Fun fact: Linux is more used than windows in two different planets : )
 - 🌐 Check out my website at [magniquick.is-a.dev](https://magniquick.is-a.dev/) (warning - it's a WIP)
 
 </details>
