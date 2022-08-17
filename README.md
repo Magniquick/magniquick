@@ -27,6 +27,8 @@
 <details>
   <summary>:zap: Top sites </summary>
   
+  [Google](https://google.com)
+  
   [Discord](https://discord.com/app)
   
   [Reddit](https:reddit.com)
