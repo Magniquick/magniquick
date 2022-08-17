@@ -24,4 +24,8 @@
 
 </details>
 
-[quick](https://click.discord.com/ls/click?upn=qDOo8cnwIoKzt0aLL1cBeFE1RlVCKJFF5zAq8ml-2BFh1dq-2FeX22E9yMPFmLMSO5CYMgQSuOHXw59okqJm2LUKpz-2FewXFLtja1wTq3hxKYzMVb49Yw1U9bzP0F9p9OSypw5bviRgiHsMh4dpzTs-2BKVFhUmHWB04dwZqCseMUZUjTmAYBurw7M7KUU-2BZ3u-2BcIU3j1kAjfSWhWUEfkNWMLNKQBoet8ayWkhXnppMuSaNCHo-3DT3UT_AxofuVEvscq-2FtKwm-2FlJGBT7knLMqVq5krED-2FqACb8wKcsLbFX-2BFu-2BxCjxcHG6s9RvKGqB3mFy0UDyIYvwu0hXM4HULvarO32LV6pOAE0EgFeR3CDpAFixFdL7dDMMSGIDzIrxCpELoZPeIUHKmbNpt9Jw68CCaqyTbwX7c4i-2FA46b7gfKKfiJjmMK4ret9Tepq7vCu1L2jXujtepS9BFFGQwFX6CYLuW7I-2B4-2BAwYZVE7qUWqZIYRbW-2BiLg8puEQZHgjLuakK6OgJjo2eLN0ypA-3D-3D)
+<details>
+  <summary>:zap: Top sites </summary>
+  [discord](https://discord.com/app)
+  [reddit](https:reddit.com)
+<details>
