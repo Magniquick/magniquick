@@ -28,5 +28,6 @@
   <summary>:zap: Top sites </summary>
   
   [Discord](https://discord.com/app)
+  
   [Reddit](https:reddit.com)
 </details>
