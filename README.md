@@ -30,5 +30,5 @@
   
   [Discord](https://discord.com/app)
   
-  [Reddit](https:reddit.com)
+  [Reddit](https://reddit.com)
 </details>
