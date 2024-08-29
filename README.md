@@ -2,8 +2,8 @@
   👋 Hi there! I am Magniquick.
 </h1>
 
-- 📚 I’m currently learning python
-- 📫 Dm me on [Discord](https://discordapp.com/users/715159111355990058) to chat : )
+- 📚 I’m currently learning rust
+- 📫 Dm me on [Discord](https://discordapp.com/users/715159111355990058) to chat : D
 - 😄 Pronouns: he / him
 
 <details>
