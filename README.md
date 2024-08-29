@@ -5,8 +5,6 @@
 - 📚 I’m currently learning python
 - 📫 Dm me on [Discord](https://discordapp.com/users/715159111355990058) to chat : )
 - 😄 Pronouns: he / him
-- 🌐 Check out my website at [magniquick.is-a.dev](https://magniquick.is-a.dev/) (WIP)
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
