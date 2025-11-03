@@ -11,37 +11,21 @@ BASE_URL = "https://github-readme-stats.vercel.app/api"
 DARK = "&theme=catppuccin_mocha"
 LIGHT = "&theme=catppuccin_latte"
 TRANSPARENT = "&theme=transparent"
-DARK = LIGHT = TRANSPARENT
+DARK += "&bg_color=00000000"
+LIGHT += "&bg_color=00000000"
 
 COMMON_PARAMS = f"username=magniquick&border_radius=5&hide_border=true&show_icons=true"
+WIDTH = 470
+HEIGHT = 200
+IMAGE_OPTS = f'height={HEIGHT} width={WIDTH} align="center"'
 PREF_DARK = 'source media="(prefers-color-scheme: dark)"'
 PREF_LIGHT = 'source media="(prefers-color-scheme: light)"'
 
 STATS_URL = f"{BASE_URL}?{COMMON_PARAMS}"
-STATS = f"""<picture> <{PREF_DARK} srcset="{STATS_URL}{DARK}"/> <{PREF_LIGHT} srcset="{STATS_URL}{LIGHT}"/><img alt="Magniquick's GitHub stats" src="{STATS_URL}{TRANSPARENT}"/></picture>"""
-
-
-def get_width() -> int:
-    img = requests.get(STATS_URL).content.decode("utf-8")
-    fields = img.split("width=")
-    fields = fields[1].split('"')
-    width = int(fields[1])
-    eprint(f"Image width: {width}")
-    return width
-
-
-WIDTH = 467
-try:
-    import requests
-
-    WIDTH = get_width()
-except ImportError as e:
-    eprint(f"Error importing modules: {e}, falling back to default width.")
-except ValueError as e:
-    eprint(f"Error getting image width: {e}, falling back to default width.")
+STATS = f"""<picture> <{PREF_DARK} srcset="{STATS_URL}{DARK}"/> <{PREF_LIGHT} srcset="{STATS_URL}{LIGHT}"/><img {IMAGE_OPTS} alt="Magniquick's GitHub stats" src="{STATS_URL}{TRANSPARENT}"/></picture>"""
 
 LANG_URL = f"{BASE_URL}/top-langs/?{COMMON_PARAMS}&card_width={WIDTH}&layout=compact&size_weight=0.5&count_weight=0.5"
-LANG = f"""<picture> <{PREF_DARK} srcset="{LANG_URL}{DARK}"/> <{PREF_LIGHT} srcset="{LANG_URL}{LIGHT}"/><img alt="Top languages used by Magniquick" src="{LANG_URL}{TRANSPARENT}"/></picture>"""
+LANG = f"""<picture> <{PREF_DARK} srcset="{LANG_URL}{DARK}"/> <{PREF_LIGHT} srcset="{LANG_URL}{LIGHT}"/><img {IMAGE_OPTS} alt="Top languages used by Magniquick" src="{LANG_URL}{TRANSPARENT}"/></picture>"""
 
 a = f"""
 <h1 align='center'>
