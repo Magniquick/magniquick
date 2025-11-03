@@ -11,6 +11,7 @@ BASE_URL = "https://github-readme-stats.vercel.app/api"
 DARK = "&theme=catppuccin_mocha"
 LIGHT = "&theme=catppuccin_latte"
 TRANSPARENT = "&theme=transparent"
+DARK = LIGHT = TRANSPARENT
 
 COMMON_PARAMS = f"username=magniquick&border_radius=5&hide_border=true&show_icons=true"
 PREF_DARK = 'source media="(prefers-color-scheme: dark)"'
